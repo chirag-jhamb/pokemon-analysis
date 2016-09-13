@@ -1,7 +1,7 @@
-# pokemon-analysis
+# Version 2- pokemon-analysis
 Exploration and visualisation of all 721 pokemon as of June 2016. The data for this table has been acquired from the websites:  pokemon.com, pokemondb and bulbapeida
 
-The data was downloaded from [Pokemon with stats](https://www.kaggle.com/abcsds/pokemon)
+Conversion from version 1 to version 2 of [Pokemon with stats](https://www.kaggle.com/abcsds/pokemon)
 ### Data description-
 - #: ID for each pokemon
 - Name: Name of each pokemon
